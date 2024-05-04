@@ -1,9 +1,10 @@
-.home {
+.mylist {
     display: flex;
+    width: 100%;
   
-    .homeContainer {
+    .mylistContainer {
       flex: 6;
-  
+
       .widgets,
       .charts {
         display: flex;
